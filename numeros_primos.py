@@ -3,6 +3,8 @@ b = 2
 result = float
 v = 0
 
+#Aqui dejo un comentario para tener un cambio en mis alchivos y suvirlo a otra rama :)
+
 while b < a :
     result = a % b
     b = b + 1
